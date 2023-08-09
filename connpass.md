@@ -122,6 +122,7 @@ This event is a conference co-hosted by [Kyoto.go](https://kyotogo.connpass.com/
 Follows [Go Community Code of Conduct](https://golang.org/conduct). If you encounter an issue, please [report](https://docs.google.com/forms/d/e/1FAIpQLSfwEJBETb7giUjmIpuyKD5Vc9kpqqnYE9WuDOuqG11pu6TxzA/viewform).
 
 ## Anti-Harassment Policy
+Harassment includes acts of discrimination based on gender, sexual orientation, disability, appearance or physical characteristics, race, religion, sexual images or expressions in public places, harassment, stalking, unwanted photography or recording, inappropriate contact, violent statements, and related offensive conduct. If the organizer asks participants to stop such harassment, they must immediately follow the instructions.
 
 ## License
 
