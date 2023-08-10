@@ -69,8 +69,8 @@ connpassのご利用が初めての方は、[connpassご利用ガイド](https:/
 
 ## ライセンス
 
-- お茶のみGopherくんのロゴは[issanさん](https://twitter.com/883_issan)にデザインしていただきました。[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)ライセンスで公開されています。
--カバー画像のGopherくんは[Renée Frenchさん](http://reneefrench.blogspot.com/)によってデザインされ、[CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/deed.ja)ライセンスで公開されています。（[doc/gopher/README](https://golang.org/doc/gopher/README)）
+- お茶のみGopherのロゴは[issanさん](https://twitter.com/883_issan)にデザインしていただきました。[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)ライセンスで公開されています。
+- カバー画像のGopherは[Renée Frenchさん](http://reneefrench.blogspot.com/)によってデザインされ、[CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/deed.ja)ライセンスで公開されています。（[doc/gopher/README](https://golang.org/doc/gopher/README)）
 
 ---
 
@@ -108,6 +108,17 @@ Please register for the event from this page.
 
 If you are a new user of connpass, please refer to the [connpass User's Guide](https://help.connpass.com/), [Register as a member](https://help.connpass.com/basic/register) and [Attend the event]( https://help.connpass.com/participants/event-join) (in Japanese). If you need a support, [contact us](https://forms.gle/5bUN2JK1tun4pahw7).
 
+## Response regarding Unauthorized Cancellations
+For those who have found themselves unable to attend due to unforeseen circumstances on the day of the event, we kindly request prompt cancellation processing. Participants who engage in unauthorized cancellations may have their priority for future Go Conference events lowered. Specifically, the following criteria will be applied to individuals who perform unauthorized cancellations:
+
+- Failure to complete the on-site check-in process on the event day.
+- Cancellation performed after the application period has ended.
+[](- Absence from the social gathering without prior notice on the event day)
+
+The reason for implementing these measures is to reduce the number of participants who are unable to attend due to unauthorized cancellations.
+
+If, due to our error, you have been subjected to cancellation processing, we apologize for the inconvenience. Kindly contact us at kyotogo-staffs@googlegroups.com. Your understanding is greatly appreciated.
+
 ## Organizers
 
 This event is a conference co-hosted by [Kyoto.go](https://kyotogo.connpass.com/) and [Gophers Japan](https://gocon.connpass.com/). For inquiries regarding this event, please contact [Inquiry Form](https://forms.gle/5bUN2JK1tun4pahw7).
@@ -116,6 +127,8 @@ This event is a conference co-hosted by [Kyoto.go](https://kyotogo.connpass.com/
 
 - The event may be changed, postponed, or cancelled due to unforeseen circumstances, such as the infection of a new type of coronavirus.
 - Currently, no sponsorships are available for this event.
+- Within the venue, there are plans for photo shooting and broadcasting by the organizing staff. As these may be posted on social media or blogs, if you have any concerns about being photographed, kindly indicate so in the survey conducted at the time of your participation.
+- In the event of sharing on social media and similar platforms, we kindly ask for your consideration to ensure that the content does not violate public order and morals.
 
 ## Code of Conduct
 
@@ -126,5 +139,5 @@ Harassment includes acts of discrimination based on gender, sexual orientation, 
 
 ## License
 
-- The logo for Tea Drinking Gopher-kun was designed by [issan](https://twitter.com/883_issan). It is released under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) license.
+- The logo for Tea Drinking Gopher was designed by [issan](https://twitter.com/883_issan). It is released under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) license.
 - The gopher was originally designed by [Renée French](http://reneefrench.blogspot.com/) and is [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/) deed.en license. ([doc/gopher/README](https://golang.org/doc/gopher/README))
