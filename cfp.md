@@ -3,7 +3,7 @@
   CfPの結果は**x/y(曜日)**に、sessionizeに登録されたメールにお送りする予定です
 -->
 
-（The English text is located below the Japanese one.）
+(The English text is located below the Japanese one.)
 
 **プロポーザルを出す上での注意点**
 
