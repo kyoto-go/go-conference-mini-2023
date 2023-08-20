@@ -13,7 +13,7 @@
 
 2トラックで以下のセッションを行います。
 
-* Normal Session : 20分
+* Normal Session : 15分
 * Lightning Talk : 5分
 
 **学生枠**
