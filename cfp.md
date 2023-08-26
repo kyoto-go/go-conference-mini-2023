@@ -43,7 +43,7 @@ Goコミュニティの裾野を広げ、地域のコミュニティで活躍す
 
 (注意)
 
-選定基準はGopherConをベースにしています。
+選定基準は[GopherCon](https://www.papercall.io/gophercon-2019)をベースにしています。
 
 **補足**
 
