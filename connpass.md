@@ -15,8 +15,11 @@ QUESTION 7F Creative Commons<br>
 
 無料
 
-## プロポーザルへの応募
-準備中
+## 発表募集
+
+https://sessionize.com/go-conference-mini-2023-winter-in-kyoto9853/ からご応募ください！
+
+現在、参加枠を超えるお申し込みをいただいておりますが、採択された方には参加枠を別途ご用意いたします。
 
 - 登壇予定の方もconnpassからの参加登録をお願いします。
 - 登壇者の方には現地参加をお願いします。
@@ -91,7 +94,10 @@ QUESTION 7F Creative Commons<br>
 Free
 
 ## Call for Proposals
-TBD
+
+We eagerly anticipate your application submission through https://sessionize.com/go-conference-mini-2023-winter-in-kyoto9853/.
+
+While we've reached our limit for general participants, dedicated seats will be make available for speakers.
 
 - Please register via connpass even if you plan to be a speaker.
 - Speakers are requested to participate on-site.
