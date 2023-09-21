@@ -32,6 +32,12 @@ https://sessionize.com/go-conference-mini-2023-winter-in-kyoto9853/ からご応
 ## セッション一覧
 準備中
 
+## アフターパーティー
+
+本編終了後に懇親会を開催いたします。
+
+参加を希望される方は https://kyotogo.connpass.com/event/296747/ からお申し込みください。
+
 ## 参加方法
 
 本ページから参加申し込みを行ってください。
@@ -109,6 +115,10 @@ TBD
 
 ## Session List
 TBD
+
+## After Party
+
+We will hold an after party! If you wish to attend, please register at https://kyotogo.connpass.com/event/296747/.
 
 ## How to join the conference?
 
