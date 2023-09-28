@@ -44,7 +44,16 @@ https://sessionize.com/go-conference-mini-2023-winter-in-kyoto9853/ からご応
 
 connpassのご利用が初めての方は、[connpassご利用ガイド](https://help.connpass.com/)の[会員登録をする](https://help.connpass.com/basic/register)と[イベントに参加する](https://help.connpass.com/participants/event-join)をご参照ください。
 
-現在、`現地参加(登壇者含む) / On-Site` の参加枠が満員となっておりますが、運営メンバーで増枠を検討しております。もし増枠がなされた場合、先着順で参加を承諾しますので、事前にご登録いただき補欠の状態でお待ちください。
+現在、`現地参加 / On-Site` の参加枠が満員となっておりますが、運営メンバーで増枠を検討しております。もし増枠がなされた場合、先着順で参加を承諾しますので、事前にご登録いただき補欠の状態でお待ちください。
+
+### 学生枠・京都府社会人枠
+
+Goコミュニティの裾野を広げ、地域のコミュニティで活躍する方を応援する目的で、3枠ずつ以下の枠を設けています。
+
+- `現地参加-学生枠 / On-Site students`: 学生の方（社会人学生は除きます）
+- `現地参加-京都府社会人枠 / On-Site Kyoto resident and worker`: 京都府に在住または通勤されていて、学生枠に当てはまらない方
+
+状況に応じて運営スタッフが応募資格を確認させていただくことがございます。
 
 ## 無断キャンセルについての対応
 
@@ -126,7 +135,16 @@ Please register for the event from this page.
 
 If you are a new user of connpass, please refer to the [connpass User's Guide](https://help.connpass.com/), [Register as a member](https://help.connpass.com/basic/register) and [Attend the event]( https://help.connpass.com/participants/event-join) (in Japanese). If you need a support, [contact us](https://forms.gle/5bUN2JK1tun4pahw7).
 
-Currently, the slots for `現地参加(登壇者含む) / On-Site` are full, but the organizing team is considering increasing the number of available slots. If additional slots are made available, they will be accepted on a first-come, first-served basis, so please register in advance and wait on the waiting list.
+Currently, the slots for `現地参加 / On-Site` are full, but the organizing team is considering increasing the number of available slots. If additional slots are made available, they will be accepted on a first-come, first-served basis, so please register in advance and wait on the waiting list.
+
+### Priority Slots
+
+To diversify the Go community and support local and student gophers, we have reserved three slot for students and three for local residents.
+
+- `現地参加-学生枠 / On-Site students`: For students, excluding those who are working.
+- `現地参加-京都府社会人枠 / On-Site Kyoto resident and worker`: For individuals residing or working in Kyoto Prefecture, who do not meet the student quota.
+
+Eligibility may be verified depending on circumstances.
 
 ## Response regarding Unauthorized Cancellations
 For those who have found themselves unable to attend due to unforeseen circumstances on the day of the event, we kindly request prompt cancellation processing. Participants who engage in unauthorized cancellations may have their priority for future Go Conference events lowered. Specifically, the following criteria will be applied to individuals who perform unauthorized cancellations:
