@@ -15,8 +15,19 @@ QUESTION 7F Creative Commons<br>
 
 無料
 
+## タイムテーブル
+
+- [Go Conference mini 2023 Winter IN KYOTOタイムテーブル](https://sessionize.com/view/yqyxxxk9/GridSmart?format=Embed_Styled_Html&isDark=False&title=Go%20Conference%20mini%202023%20Winter%20IN%20KYOTO)
+
+## セッション一覧
+
+- [Go Conference mini 2023 Winter IN KYOTO セッション一覧](https://sessionize.com/view/yqyxxxk9/Sessions?format=Embed_Styled_Html&isDark=False&title=Go%20Conference%20mini%202023%20Winter%20IN%20KYOTO)
+
 ## 発表募集
 
+10/2をもって締め切りました。多数のご応募ありがとうございました。
+
+<!--
 https://sessionize.com/go-conference-mini-2023-winter-in-kyoto9853/ からご応募ください！
 
 現在、参加枠を超えるお申し込みをいただいておりますが、採択された方には参加枠を別途ご用意いたします。
@@ -25,12 +36,7 @@ https://sessionize.com/go-conference-mini-2023-winter-in-kyoto9853/ からご応
 - 登壇者の方には現地参加をお願いします。
 - 旅費・宿泊費等の費用補助はございません。
 - セッションの同時通訳等の提供予定はございません。日本語もしくは英語での発表をお願いします。
-
-## タイムテーブル
-準備中
-
-## セッション一覧
-準備中
+-->
 
 ## アフターパーティー
 
@@ -108,8 +114,19 @@ QUESTION 7F Creative Commons<br>
 ## Registration Fee
 Free
 
+## Time Table
+
+- [Go Conference mini 2023 Winter IN KYOTO Time Table](https://sessionize.com/view/yqyxxxk9/GridSmart?format=Embed_Styled_Html&isDark=False&title=Go%20Conference%20mini%202023%20Winter%20IN%20KYOTO)
+
+## Session List
+
+- [Go Conference mini 2023 Winter IN KYOTO Session List](https://sessionize.com/view/yqyxxxk9/Sessions?format=Embed_Styled_Html&isDark=False&title=Go%20Conference%20mini%202023%20Winter%20IN%20KYOTO)
+
 ## Call for Proposals
 
+Closed on 2 Oct. Thank you for your many applications.
+
+<!--
 We eagerly anticipate your application submission through https://sessionize.com/go-conference-mini-2023-winter-in-kyoto9853/.
 
 While we've reached our limit for general participants, dedicated seats will be make available for speakers.
@@ -118,12 +135,7 @@ While we've reached our limit for general participants, dedicated seats will be 
 - Speakers are requested to participate on-site.
 - Travel and accommodation expenses will not be subsidized.
 - Simultaneous interpretation will not be provided. Speakers are requested to present in English or Japanese.
-
-## Time Table
-TBD
-
-## Session List
-TBD
+-->
 
 ## After Party
 
