@@ -3,7 +3,7 @@
 Go Conference mini Winter in Kyotoの運営スタッフ向けのリポジトリです。
 
 * イベントに関するお問い合わせは https://forms.gle/otvr1bZawbaLkbYeA からお願いします。
-* このリポジトリはパブリックです。個人情報、その他の機密情報は記載しないでください。
+* Go Conference mini 2023 Winter IN KYOTOはGoコミュニティのCode Of Conductに準じます。カンファレンス運営における円滑なコミュニケーションやディスカッションの活性化を目的としています。そのため個人情報などの機密情報の記載を禁じます。
 
 ## 行動指針
 
